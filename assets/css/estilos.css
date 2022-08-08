@@ -7,6 +7,10 @@ body {
   background-color: #03045e;
 }
 
+.bg-blue {
+  background-color: #0077b6;
+}
+
 .marker-font {
   font-family: "Permanent Marker", cursive;
 }
@@ -17,6 +21,10 @@ body {
 
 p {
   text-align: justify;
+}
+
+.image-top {
+  background-size: cover;
 }
 
 /* Hero Section */
@@ -34,7 +42,7 @@ p {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: left top;
 }
 
 /* Contacto */
