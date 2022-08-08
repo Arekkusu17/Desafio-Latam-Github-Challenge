@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: #caf0f8;
 }
 
 .bg-dark-blue {
@@ -12,6 +13,10 @@ body {
 
 .big-text {
   font-size: 24px;
+}
+
+p {
+  text-align: justify;
 }
 
 /* Hero Section */
